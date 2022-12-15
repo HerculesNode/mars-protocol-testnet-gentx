@@ -7,9 +7,9 @@
 Mars Protocol'ün Testnetine katılabilmek için Gentx dosyası işlemlerini ele alacağız ayrıca Discord üzerinden Operatör rölü alacağız..
 
 
- * [Yeni Node Testnet Telegram Kanalı](https://t.me/HerculesNode)
+ 
  * [Discord](https://discord.gg/marsprotocol)
- * [Telegram Destek Kanalımız](https://t.me/FortaDestek)
+ * [Telegram Destek Kanalımız](https://t.me/HerculesNode)
 
 
 
